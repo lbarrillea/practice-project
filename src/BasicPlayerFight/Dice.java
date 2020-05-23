@@ -1,7 +1,7 @@
 package BasicPlayerFight;
 import java.lang.Math; 
 public class Dice {
-	//Variable (what this class HAS
+	//Variable (what this class HAS)
 	public int maxNumber;
 	
 	//method (what this class DOES)
@@ -10,7 +10,7 @@ public class Dice {
 		return rand ;
 	}
 	
-	//constructor (how we create an OBJECT of this CLASS
+	//constructor (how we create an OBJECT of this CLASS)
 	public Dice(int max){
 		maxNumber = max;
 	}

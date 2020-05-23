@@ -11,8 +11,10 @@ public class Damage {
 		Dice d100 = new Dice(100);
 		
 		public int maxDice;
-		public int damageRoll()
-			
+		public int damageRoll;
+		
+		//Greg "commented out" this code. Remove the /* and */ to "uncomment" it.
+		/*
 			//sum = sum + another number;
 			public static void main(String[] args) 
 		    { 
@@ -22,9 +24,5 @@ public class Damage {
 			
 			return sum;
 			
-		}
-	
-
-	
-
+		*/
 }
